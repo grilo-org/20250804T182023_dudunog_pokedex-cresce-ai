@@ -1,0 +1,7 @@
+node_modules
+.vscode
+coverage
+.env
+*.css
+vite.config.ts
+assets
